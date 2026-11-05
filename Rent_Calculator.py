@@ -17,4 +17,4 @@ charge_per_unit = int(input("Enter the charge per unit : "))
 total_amount = (rent + groceries + (electricity_spent * charge_per_unit))
 amount_per_person = (total_amount)//persons
 
-print(f"The Amount Has To be Paid By one person is : ",amount_per_person)
+print(f"The Amount Has To be Paid By one person is : {amount_per_person} ")
