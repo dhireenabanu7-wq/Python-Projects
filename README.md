@@ -1,5 +1,6 @@
 # Python-Projects
 This repository contains various Python projects, ranging from basic concepts to advanced applications
 
-Basic Project
+# Basic Project
 1. Rent Calculator Project
+2. Rock Paper Scissor Project
